@@ -7,7 +7,7 @@ and using machine-vision in low-resource settings (data and compute) for industr
 
 - 🌱 I’m currently learning engineering challenges involved in bulidng and deployong large scale machine learning systems. 
 - 💞️ I’m looking to collaborate on applied research areas in machine learning with domain experts. 
-- 📫 For any queries or inqueries or colloborations, 
+- 📫 For any queries or inqueries or colloborations, please reference to my github page here: <a href=https://vidyadharrao.github.io/> Vidyadhar Rao </a>
 
 
 
